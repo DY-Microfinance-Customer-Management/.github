@@ -66,7 +66,7 @@ PATCH  /loans/:id/payment      # 상환 처리
 ---
 
 ### 🧮 [dymf-algorithm](https://github.com/DY-Microfinance-Customer-Management/dymf-algorithm)
-**Algorithm Engine - Python + PyQt5**
+**Algorithm Engine - Python**
 
 미얀마 금융 시장 특성을 반영한 대출 이자 계산 알고리즘 구현
 
