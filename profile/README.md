@@ -104,22 +104,12 @@ period_interest_rate = annual_interest_rate / cycle_cnt
 
 **기술 스택:**
 - Python 3.10+
-- PyQt5 (Desktop UI)
 - Pandas (데이터 처리)
 - Jupyter Notebook (알고리즘 검증)
 
 **주요 파일:**
 - `algorithm/loan.ipynb`: 알고리즘 정의 및 수학적 증명
 - `app/main.py`: PyQt5 애플리케이션 진입점
-
----
-
-## 팀 구성
-
-| 역할 | 이름 | 담당 |
-|------|------|------|
-| Backend | 모진영 | 프론트 개발, DB 설계 |
-| Backend | 박훈일 | 인증/권한, 알고리즘 통합 |
 
 ---
 
@@ -133,8 +123,6 @@ period_interest_rate = annual_interest_rate / cycle_cnt
 [dymf-back (Nest.js)]
        ↓
 [PostgreSQL Database]
-       ↓
-[dymf-algorithm (Python)]
 ```
 
 ---
